@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\usb hid\UsbLibrary\bin\Release\UsbLibrary.dll
+C:\Users\Administrator\Desktop\usb hid\UsbLibrary\bin\Release\UsbLibrary.pdb
+C:\Users\Administrator\Desktop\usb hid\UsbLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\usb hid\UsbLibrary\obj\Release\UsbLibrary.dll
+C:\Users\Administrator\Desktop\usb hid\UsbLibrary\obj\Release\UsbLibrary.pdb
+E:\HID配置软件\UsbLibrary\bin\Release\UsbLibrary.dll
+E:\HID配置软件\UsbLibrary\bin\Release\UsbLibrary.pdb
+E:\HID配置软件\UsbLibrary\obj\Release\ResolveAssemblyReference.cache
+E:\HID配置软件\UsbLibrary\obj\Release\UsbLibrary.dll
+E:\HID配置软件\UsbLibrary\obj\Release\UsbLibrary.pdb
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbLibrary\bin\Release\UsbLibrary.dll
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbLibrary\bin\Release\UsbLibrary.pdb
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbLibrary\obj\Release\UsbLibrary.dll
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbLibrary\obj\Release\UsbLibrary.pdb

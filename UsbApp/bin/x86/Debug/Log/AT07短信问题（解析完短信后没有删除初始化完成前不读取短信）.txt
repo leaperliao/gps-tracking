@@ -1,0 +1,1403 @@
+B026CONNECT FAIL
+Sending Instruction: AT+CSQ
+
+B026+CSQ: 25,0
+B026OK
+Time:140101010101
+IOStatus000000
+Battery voltage:3.8   External voltage:11
+AN1:00.00
+LACCI:2950   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+Sending Instruction: AT+CSQ
+
+B026+CSQ: 26,0
+B026OK
+Time:140101010101
+IOStatus000000
+Battery voltage:3.7   External voltage:11
+AN1:00.00
+LACCI:2950   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+Sending Instruction: AT+CSQ
+
+B026+CSQ: 25,0
+B026OK
+Time:140101010101
+IOStatus000000
+Battery voltage:3.8   External voltage:11
+AN1:00.00
+LACCI:2950   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+Sending Instruction: AT+QISTAT
+
+B026OK
+B026STATE: TCP CONNECTING
+Sending Instruction: AT+QIDEACT
+
+B026DEACT OK
+GPRS Close
+
+Sending Instruction: AT+QIDNSIP=0
+
+B026OK
+Sending Instruction: AT+QIOPEN="TCP","66.160.134.220","8808"
+
+GPRS Connect:"TCP","66.160.134.220","8808"
+B026OK
+B026CONNECT FAIL
+Time:140101010101
+IOStatus000000
+Battery voltage:3.6   External voltage:11
+AN1:00.00
+LACCI:2950   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+Sending Instruction: AT+CSQ
+
+B026+CSQ: 23,0
+B026OK
+C00353
+C00214
+In Queue:$$0115AA862106029319003|00001814010101010138110000000000000025312950V002300000000.000000000000.0000N00000.0000E66E5
+Time:140101010101
+IOStatus000000
+Battery voltage:3.6   External voltage:11
+AN1:00.00
+LACCI:2950   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+Sending Instruction: AT+CSQ
+
+B026+CSQ: 24,0
+B026OK
+Time:140101010101
+IOStatus000000
+Battery voltage:3.8   External voltage:11
+AN1:00.00
+LACCI:2950   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+Sending Instruction: AT+QISTAT
+
+B026OK
+B026STATE: TCP CONNECTING
+Sending Instruction: AT+QIDEACT
+
+B026DEACT OK
+GPRS Close
+
+Sending Instruction: AT+QIDNSIP=0
+
+B026OK
+C0011
+Sending Instruction: AT&F
+
+B026OK
+C0012
+Sending Instruction: ATE0
+
+B026ATE0
+B026OK
+C0013
+Sending Instruction: AT
+
+B026OK
+IMEI:862106029319003
+C0014
+Sending Instruction: AT+CGMR
+
+B026Revision: M35AR01A10
+B026OK
+C0015
+Sending Instruction: AT+CPIN?
+
+B026+CPIN: READY
+B026OK
+C0016
+Sending Instruction: AT
+
+B026OK
+C0017
+Sending Instruction: AT+QINISTAT
+
+B026+QINISTAT: 3
+B026OK
+C0018
+Sending Instruction: AT+CMEE=2
+
+B026OK
+C0019
+Sending Instruction: AT+CREG=2
+
+B026OK
+C00110
+Sending Instruction: AT+QBAND="EGSM_DCS_MODE"
+
+B026+CGREG: 0
+B026+CREG: 0,"2531","2950"
+B026OK
+B026+CGREG: 2
+C00111
+Sending Instruction: AT+CREG?
+
+B026+CREG: 2,2
+B026OK
+B026+CREG: 1,"2531","2ACB"
+Time:140101010101
+IOStatus000000
+Battery voltage:3.8   External voltage:11
+AN1:00.00
+LACCI:2ACB   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+B026+CGREG: 1
+C00111
+Sending Instruction: AT+CREG?
+
+B026+CREG: 2,1,"2531","2ACB"
+B026OK
+C00112
+Sending Instruction: AT+QIPROMPT=1
+
+B026OK
+C00113
+Sending Instruction: AT+QSCLK=0
+
+B026OK
+C00114
+Sending Instruction: AT+CSCS="GSM"
+
+B026OK
+C00115
+Sending Instruction: AT+CLIP=1
+
+B026OK
+C00116
+Sending Instruction: AT+QAUDCH=2
+
+B026OK
+C00117
+Sending Instruction: AT+QMIC=2,8
+
+B026OK
+C00118
+Sending Instruction: AT+QIFGCNT=0
+
+B026OK
+C00119
+Sending Instruction: AT+CMGF=1
+
+B026OK
+C00120
+Sending Instruction: AT+CNMI=2,1
+
+B026OK
+C00121
+Sending Instruction: AT+CGREG=1
+
+B026OK
+C00122
+Sending Instruction: AT+QECHOEX=1,1,1,211,2048,32767,374,2
+
+B026OK
+C00123
+Sending Instruction: AT+QECHO=221,2048,200,374,2
+
+B026OK
+C00124
+Sending Instruction: AT+CSMP=17,167,0,0
+
+B026OK
+C00125
+Sending Instruction: AT&W
+
+B026OK
+C00126
+Sending Instruction: AT+QMGDA="DEL READ"
+
+B026OK
+C00127
+Sending Instruction: AT+QIDNSCFG="8.8.8.8","8.8.4.4"
+
+Set DNS:"8.8.8.8","8.8.4.4"
+B026OK
+C00128
+Sending Instruction: AT+QICSGP=1,"CMNET","",""
+
+Set APN:AT+QICSGP=1,"CMNET","",""
+
+B026OK
+C00129
+Sending Instruction: AT+QIDEACT
+
+B026DEACT OK
+C00130
+Sending Instruction: AT+QINDI=0
+
+B026OK
+C00131
+Sending Instruction: AT+CSQ
+
+B026+CSQ: 26,0
+B026OK
+Sending Instruction: AT+CSQ
+
+GPRS Close
+
+B026+CSQ: 26,0
+B026OK
+Sending Instruction: AT+QIDNSIP=0
+
+B026OK
+Time:140101010101
+IOStatus000000
+Battery voltage:3.8   External voltage:11
+AN1:00.02
+LACCI:2ACB   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+No gps satellite
+
+Sending Instruction: AT+CSQ
+
+B026+CSQ: 25,0
+B026OK
+B026+CREG: 1,"2531","2950"
+Time:140101010101
+IOStatus000000
+Battery voltage:3.5   External voltage:11
+AN1:00.00
+LACCI:2950   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+Sending Instruction: AT+CSQ
+
+B026+CSQ: 27,0
+B026OK
+C00354
+C00215
+In Queue:$$0115AA862106029319003|00001814010101010135110000000000000025312950V002700000000.000000000000.0000N00000.0000EDCEE
+Time:140101010101
+IOStatus000000
+Battery voltage:3.6   External voltage:11
+AN1:00.00
+LACCI:2950   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+Sending Instruction: AT+CSQ
+
+B026+CSQ: 27,0
+B026OK
+Time:140101010101
+IOStatus000000
+Battery voltage:3.6   External voltage:11
+AN1:00.00
+LACCI:2950   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+Sending Instruction: AT+CSQ
+
+B026+CSQ: 25,0
+B026OK
+Time:140101010101
+IOStatus000000
+Battery voltage:3.5   External voltage:11
+AN1:00.00
+LACCI:2950   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+Sending Instruction: AT+QIOPEN="TCP","66.160.134.220","8808"
+
+GPRS Connect:"TCP","66.160.134.220","8808"
+B026OK
+B026CONNECT FAIL
+Sending Instruction: AT+CSQ
+
+B026+CSQ: 24,0
+B026OK
+Time:140101010101
+IOStatus000000
+Battery voltage:3.8   External voltage:11
+AN1:00.00
+LACCI:2950   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+Sending Instruction: AT+CSQ
+
+B026+CSQ: 26,0
+B026OK
+Time:140101010101
+IOStatus000000
+Battery voltage:3.6   External voltage:11
+AN1:00.00
+LACCI:2950   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+Sending Instruction: AT+CSQ
+
+B026+CSQ: 24,0
+B026OK
+C00355
+C00216
+In Queue:$$0115AA862106029319003|00001814010101010138110000000000000025312950V002400000000.000000000000.0000N00000.0000EE2D8
+Time:140101010101
+IOStatus000000
+Battery voltage:3.8   External voltage:11
+AN1:00.00
+LACCI:2950   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+Sending Instruction: AT+QISTAT
+
+B026OK
+B026STATE: TCP CONNECTING
+Sending Instruction: AT+QIDEACT
+
+B026DEACT OK
+GPRS Close
+
+Sending Instruction: AT+QIDNSIP=0
+
+B026OK
+Sending Instruction: AT+QIOPEN="TCP","66.160.134.220","8808"
+
+GPRS Connect:"TCP","66.160.134.220","8808"
+B026OK
+B026CONNECT FAIL
+Sending Instruction: AT+CSQ
+
+B026+CSQ: 25,0
+B026OK
+Time:140101010101
+IOStatus000000
+Battery voltage:3.8   External voltage:11
+AN1:00.00
+LACCI:2950   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+Sending Instruction: AT+CSQ
+
+B026+CSQ: 26,0
+B026OK
+Time:140101010101
+IOStatus000000
+Battery voltage:3.5   External voltage:11
+AN1:00.00
+LACCI:2950   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+No gps satellite
+
+Sending Instruction: AT+CSQ
+
+B026+CSQ: 26,0
+B026OK
+Time:140101010101
+IOStatus000000
+Battery voltage:3.8   External voltage:11
+AN1:00.00
+LACCI:2950   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+Sending Instruction: AT+QISTAT
+
+B026OK
+B026STATE: TCP CONNECTING
+Sending Instruction: AT+QIDEACT
+
+B026DEACT OK
+GPRS Close
+
+Sending Instruction: AT+QIDNSIP=0
+
+B026OK
+Sending Instruction: AT+QIOPEN="TCP","66.160.134.220","8808"
+
+GPRS Connect:"TCP","66.160.134.220","8808"
+B026OK
+B026CONNECT FAIL
+Sending Instruction: AT+CSQ
+
+B026+CSQ: 25,0
+B026OK
+Time:140101010101
+IOStatus000000
+Battery voltage:3.4   External voltage:11
+AN1:00.00
+LACCI:2950   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+Sending Instruction: AT+CSQ
+
+B026+CSQ: 26,0
+B026OK
+C00356
+C00217
+In Queue:$$0115AA862106029319003|00001814010101010137110000000000000025312950V002600000000.000000000000.0000N00000.0000EAE9F
+Time:140101010101
+IOStatus000000
+Battery voltage:3.8   External voltage:11
+AN1:00.00
+LACCI:2950   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+Sending Instruction: AT+CSQ
+
+B026+CSQ: 26,0
+B026OK
+B026+CMTI: "SM",1
+Sending Instruction: AT+CMGL="REC UNREAD"
+
+B026+CMGL: 1,"REC UNREAD","15013707900","","2014/06/12 19:36:13+32"
+Receive a sms message:15013707900
+B026*000000,011#
+SMS Instruction:*000000,011#
+Wipe cache
+
+Set success
+
+B026OK
+Sending Instruction: AT+QMGDA="DEL READ"
+
+B026OK
+Sending Instruction: AT+CMGS="15013707900"
+
+Sending Instruction: Set Command Succeed
+Sending Instruction: 
+Send SMS:Set Command Succeed
+Time:140101010101
+IOStatus000000
+Battery voltage:3.7   External voltage:11
+AN1:00.00
+LACCI:2950   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+B026+CMGS: 213
+Sending Instruction: AT+QISTAT
+
+B026OK
+B026OK
+B026STATE: TCP CONNECTING
+Sending Instruction: AT+CSQ
+
+B026+CSQ: 26,0
+B026OK
+Sending Instruction: AT+QIDEACT
+
+Time:140101010101
+IOStatus000000
+Battery voltage:3.6   External voltage:11
+AN1:00.02
+LACCI:2950   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+B026DEACT OK
+GPRS Close
+
+Sending Instruction: AT+CSQ
+
+B026+CSQ: 26,0
+B026OK
+Sending Instruction: AT+QIDNSIP=0
+
+B026OK
+Sending Instruction: AT+QIOPEN="TCP","66.160.134.220","8808"
+
+GPRS Connect:"TCP","66.160.134.220","8808"
+B026OK
+B026CONNECT FAIL
+Time:140101010101
+IOStatus000000
+Battery voltage:3.6   External voltage:11
+AN1:00.00
+LACCI:2950   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+Sending Instruction: AT+CSQ
+
+B026+CSQ: 26,0
+B026OK
+Time:140101010101
+IOStatus000000
+Battery voltage:3.6   External voltage:11
+AN1:00.00
+LACCI:2950   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+Sending Instruction: AT+CSQ
+
+B026+CSQ: 27,0
+B026OK
+C00316
+C0021
+In Queue:$$0115AA862106029319003|00001814010101010137110000000200000025312950V002700000000.000000000000.0000N00000.0000E2291
+Time:140101010101
+IOStatus000000
+Battery voltage:3.8   External voltage:11
+AN1:00.00
+LACCI:2950   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+Sending Instruction: AT+CSQ
+
+B026+CSQ: 26,0
+B026OK
+Sending Instruction: AT+QISTAT
+
+B026OK
+B026STATE: TCP CONNECTING
+Sending Instruction: AT+QIDEACT
+
+B026DEACT OK
+GPRS Close
+
+Sending Instruction: AT+QIDNSIP=0
+
+B026OK
+C0011
+Sending Instruction: AT&F
+
+B026OK
+C0012
+Sending Instruction: ATE0
+
+B026ATE0
+B026OK
+C0013
+Sending Instruction: AT
+
+B026OK
+IMEI:862106029319003
+C0014
+Sending Instruction: AT+CGMR
+
+B026Revision: M35AR01A10
+B026OK
+C0015
+Sending Instruction: AT+CPIN?
+
+B026+CPIN: READY
+B026OK
+C0016
+Sending Instruction: AT
+
+B026OK
+C0017
+Sending Instruction: AT+QINISTAT
+
+B026+QINISTAT: 3
+B026OK
+C0018
+Sending Instruction: AT+CMEE=2
+
+B026OK
+C0019
+Sending Instruction: AT+CREG=2
+
+B026OK
+C00110
+Sending Instruction: AT+QBAND="EGSM_DCS_MODE"
+
+B026+CGREG: 0
+Time:140101010101
+IOStatus000000
+Battery voltage:3.7   External voltage:11
+AN1:00.00
+LACCI:2950   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+B026+CREG: 0,"2531","2950"
+B026OK
+B026+CGREG: 2
+C00111
+Sending Instruction: AT+CREG?
+
+B026+CREG: 2,2
+B026OK
+B026+CREG: 1,"2531","2ACB"
+No gps satellite
+
+B026+CGREG: 1
+B026+CREG: 1,"2531","2950"
+Time:140101010101
+IOStatus000000
+Battery voltage:3.5   External voltage:11
+AN1:00.00
+LACCI:2950   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+C00111
+Sending Instruction: AT+CREG?
+
+B026+CREG: 2,1,"2531","2950"
+B026OK
+C00112
+Sending Instruction: AT+QIPROMPT=1
+
+B026OK
+C00113
+Sending Instruction: AT+QSCLK=0
+
+B026OK
+C00114
+Sending Instruction: AT+CSCS="GSM"
+
+B026OK
+C00115
+Sending Instruction: AT+CLIP=1
+
+B026OK
+C00116
+Sending Instruction: AT+QAUDCH=2
+
+B026OK
+C00117
+Sending Instruction: AT+QMIC=2,8
+
+B026OK
+C00118
+Sending Instruction: AT+QIFGCNT=0
+
+B026OK
+C00119
+Sending Instruction: AT+CMGF=1
+
+B026OK
+C00120
+Sending Instruction: AT+CNMI=2,1
+
+B026OK
+C00121
+Sending Instruction: AT+CGREG=1
+
+B026OK
+C00122
+Sending Instruction: AT+QECHOEX=1,1,1,211,2048,32767,374,2
+
+B026OK
+C00123
+Sending Instruction: AT+QECHO=221,2048,200,374,2
+
+B026OK
+C00124
+Sending Instruction: AT+CSMP=17,167,0,0
+
+B026OK
+C00125
+Sending Instruction: AT&W
+
+B026OK
+C00126
+Sending Instruction: AT+QMGDA="DEL READ"
+
+B026OK
+C00127
+Sending Instruction: AT+QIDNSCFG="8.8.8.8","8.8.4.4"
+
+Set DNS:"8.8.8.8","8.8.4.4"
+B026OK
+C00128
+Sending Instruction: AT+QICSGP=1,"CMNET","",""
+
+Set APN:AT+QICSGP=1,"CMNET","",""
+
+B026OK
+C00129
+Sending Instruction: AT+QIDEACT
+
+B026DEACT OK
+B026+CMTI: "SM",1
+C00130
+Sending Instruction: AT+QINDI=0
+
+B026OK
+C00131
+Sending Instruction: AT+CSQ
+
+B026+CSQ: 25,0
+B026OK
+Sending Instruction: AT+CSQ
+
+GPRS Close
+
+B026+CSQ: 25,0
+B026OK
+Sending Instruction: AT+CMGL="REC UNREAD"
+
+B026+CMGL: 1,"REC UNREAD","15013707900","","2014/06/12 19:38:26+32"
+Receive a sms message:15013707900
+B026*000000,006#
+Sending Instruction: AT+QIDNSIP=0
+
+SMS Instruction:*000000,006#
+*************************************
+Machine: AT07
+PCBVersion: V3.30
+SoftVersion: V3.30
+ConfigVersion: V2.10
+*************************************
+GSM Power on
+
+Sending Instruction: AT
+
+B026OK
+B026+CFUN: 1
+B026+CPIN: READY
+C0011
+Sending Instruction: AT&F
+
+B026OK
+C0012
+Sending Instruction: ATE0
+
+B026ATE0
+B026OK
+C0013
+Sending Instruction: AT+CGSN
+
+B026862106029319003
+B026OK
+IMEI:862106029319003
+Time:140101010101
+IOStatus000000
+Battery voltage:3.5   External voltage:11
+AN1:00.00
+LACCI:0000   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+C0014
+Sending Instruction: AT+CGMR
+
+B026Revision: M35AR01A10
+B026OK
+C0015
+Sending Instruction: AT+CPIN?
+
+B026+CPIN: READY
+B026OK
+C0016
+Sending Instruction: AT
+
+B026OK
+C0017
+Sending Instruction: AT+QINISTAT
+
+B026+QINISTAT: 1
+B026OK
+B026Call Ready
+C0017
+Sending Instruction: AT+QINISTAT
+
+Time:140101010101
+IOStatus000000
+Battery voltage:3.8   External voltage:11
+AN1:00.00
+LACCI:0000   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+B026+QINISTAT: 3
+B026OK
+C0018
+Sending Instruction: AT+CMEE=2
+
+B026OK
+C0019
+Sending Instruction: AT+CREG=2
+
+B026OK
+C00110
+Sending Instruction: AT+QBAND="EGSM_DCS_MODE"
+
+B026+CREG: 0,"2531","2950"
+B026OK
+C00111
+Sending Instruction: AT+CREG?
+
+B026+CREG: 2,2
+B026OK
+B026+CREG: 1,"2531","2950"
+Time:140101010101
+IOStatus000000
+Battery voltage:3.6   External voltage:11
+AN1:00.00
+LACCI:2950   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+C00111
+Sending Instruction: AT+CREG?
+
+B026+CREG: 2,1,"2531","2950"
+B026OK
+C00112
+Sending Instruction: AT+QIPROMPT=1
+
+B026OK
+C00113
+Sending Instruction: AT+QSCLK=0
+
+B026OK
+C00114
+Sending Instruction: AT+CSCS="GSM"
+
+B026OK
+C00115
+Sending Instruction: AT+CLIP=1
+
+B026OK
+C00116
+Sending Instruction: AT+QAUDCH=2
+
+B026OK
+C00117
+Sending Instruction: AT+QMIC=2,8
+
+B026OK
+C00118
+Sending Instruction: AT+QIFGCNT=0
+
+B026OK
+C00119
+Sending Instruction: AT+CMGF=1
+
+B026OK
+C00120
+Sending Instruction: AT+CNMI=2,1
+
+B026OK
+C00121
+Sending Instruction: AT+CGREG=1
+
+B026OK
+C00122
+Sending Instruction: AT+QECHOEX=1,1,1,211,2048,32767,374,2
+
+B026OK
+C00123
+Sending Instruction: AT+QECHO=221,2048,200,374,2
+
+B026OK
+C00124
+Sending Instruction: AT+CSMP=17,167,0,0
+
+B026OK
+C00125
+Sending Instruction: AT&W
+
+B026OK
+C00126
+Sending Instruction: AT+QMGDA="DEL READ"
+
+B026OK
+C00127
+Sending Instruction: AT+QIDNSCFG="8.8.8.8","8.8.4.4"
+
+Set DNS:"8.8.8.8","8.8.4.4"
+B026OK
+C00128
+Sending Instruction: AT+QICSGP=1,"CMNET","",""
+
+Set APN:AT+QICSGP=1,"CMNET","",""
+
+B026OK
+C00129
+Sending Instruction: AT+QIDEACT
+
+B026DEACT OK
+C00130
+Sending Instruction: AT+QINDI=0
+
+B026OK
+C00131
+Sending Instruction: AT+CSQ
+
+B026+CSQ: 26,0
+B026OK
+Sending Instruction: AT+CSQ
+
+GPRS Close
+
+B026+CSQ: 26,0
+B026OK
+Sending Instruction: AT+QIDNSIP=0
+
+B026OK
+Sending Instruction: AT+QIOPEN="TCP","66.160.134.220","8808"
+
+GPRS Connect:"TCP","66.160.134.220","8808"
+B026OK
+B026+CMTI: "SM",2
+Sending Instruction: AT+CMGL="REC UNREAD"
+
+B026+CMGL: 1,"REC UNREAD","15013707900","","2014/06/12 19:38:26+32"
+Receive a sms message:15013707900
+B026*000000,006#
+SMS Instruction:*000000,006#
+*************************************
+Machine: AT07
+PCBVersion: V3.30
+SoftVersion: V3.30
+ConfigVersion: V2.10
+*************************************
+GSM Power on
+
+Sending Instruction: AT
+
+B026OK
+B026+CFUN: 1
+B026+CPIN: READY
+C0011
+Sending Instruction: AT&F
+
+B026OK
+C0012
+Sending Instruction: ATE0
+
+B026ATE0
+B026OK
+C0013
+Sending Instruction: AT+CGSN
+
+B026862106029319003
+B026OK
+IMEI:862106029319003
+C0014
+Sending Instruction: AT+CGMR
+
+Time:140101010101
+IOStatus000000
+Battery voltage:3.9   External voltage:11
+AN1:00.00
+LACCI:0000   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+B026Revision: M35AR01A10
+B026OK
+C0015
+Sending Instruction: AT+CPIN?
+
+B026+CPIN: READY
+B026OK
+C0016
+Sending Instruction: AT
+
+B026OK
+C0017
+Sending Instruction: AT+QINISTAT
+
+B026+QINISTAT: 1
+B026OK
+B026Call Ready
+B026+CMTI: "SM",3
+B026+CMTI: "SM",4
+C0017
+Sending Instruction: AT+QINISTAT
+
+Time:140101010101
+IOStatus000000
+Battery voltage:3.8   External voltage:11
+AN1:00.00
+LACCI:0000   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+B026+QINISTAT: 3
+B026OK
+C0018
+Sending Instruction: AT+CMEE=2
+
+B026OK
+C0019
+Sending Instruction: AT+CREG=2
+
+B026OK
+C00110
+Sending Instruction: AT+QBAND="EGSM_DCS_MODE"
+
+B026+CREG: 0,"2531","2950"
+B026OK
+C00111
+Sending Instruction: AT+CREG?
+
+B026+CREG: 2,2
+B026OK
+B026+CREG: 1,"2531","2ACB"
+Time:140101010101
+IOStatus000000
+Battery voltage:3.8   External voltage:11
+AN1:00.00
+LACCI:2ACB   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+B026+CREG: 1,"2531","2950"
+C00111
+Sending Instruction: AT+CREG?
+
+B026+CREG: 2,1,"2531","2950"
+B026OK
+C00112
+Sending Instruction: AT+QIPROMPT=1
+
+B026OK
+C00113
+Sending Instruction: AT+QSCLK=0
+
+B026OK
+C00114
+Sending Instruction: AT+CSCS="GSM"
+
+B026OK
+C00115
+Sending Instruction: AT+CLIP=1
+
+B026OK
+C00116
+Sending Instruction: AT+QAUDCH=2
+
+B026OK
+C00117
+Sending Instruction: AT+QMIC=2,8
+
+B026OK
+C00118
+Sending Instruction: AT+QIFGCNT=0
+
+B026OK
+C00119
+Sending Instruction: AT+CMGF=1
+
+B026OK
+C00120
+Sending Instruction: AT+CNMI=2,1
+
+B026OK
+C00121
+Sending Instruction: AT+CGREG=1
+
+B026OK
+C00122
+Sending Instruction: AT+QECHOEX=1,1,1,211,2048,32767,374,2
+
+B026OK
+C00123
+Sending Instruction: AT+QECHO=221,2048,200,374,2
+
+B026OK
+C00124
+Sending Instruction: AT+CSMP=17,167,0,0
+
+B026OK
+C00125
+Sending Instruction: AT&W
+
+B026OK
+C00126
+Sending Instruction: AT+QMGDA="DEL READ"
+
+B026OK
+C00127
+Sending Instruction: AT+QIDNSCFG="8.8.8.8","8.8.4.4"
+
+Set DNS:"8.8.8.8","8.8.4.4"
+B026OK
+C00128
+Sending Instruction: AT+QICSGP=1,"CMNET","",""
+
+Set APN:AT+QICSGP=1,"CMNET","",""
+
+B026OK
+C00129
+Sending Instruction: AT+QIDEACT
+
+B026DEACT OK
+C00130
+Sending Instruction: AT+QINDI=0
+
+B026OK
+C00131
+Sending Instruction: AT+CSQ
+
+B026+CSQ: 25,0
+B026OK
+Sending Instruction: AT+CSQ
+
+GPRS Close
+
+B026+CSQ: 25,0
+B026OK
+Sending Instruction: AT+CMGL="REC UNREAD"
+
+B026+CMGL: 1,"REC UNREAD","15013707900","","2014/06/12 19:38:26+32"
+Receive a sms message:15013707900
+B026*000000,006#
+Sending Instruction: AT+QIDNSIP=0
+
+SMS Instruction:*000000,006#
+*************************************
+Machine: AT07
+PCBVersion: V3.30
+SoftVersion: V3.30
+ConfigVersion: V2.10
+*************************************
+GSM Power on
+
+Sending Instruction: AT
+
+B026OK
+B026+CFUN: 1
+B026+CPIN: READY
+C0011
+Sending Instruction: AT&F
+
+B026OK
+C0012
+Sending Instruction: ATE0
+
+B026ATE0
+B026OK
+C0013
+Sending Instruction: AT+CGSN
+
+B026862106029319003
+B026OK
+IMEI:862106029319003
+Time:140101010101
+IOStatus000000
+Battery voltage:3.8   External voltage:11
+AN1:00.00
+LACCI:0000   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+C0014
+Sending Instruction: AT+CGMR
+
+B026Revision: M35AR01A10
+B026OK
+C0015
+Sending Instruction: AT+CPIN?
+
+B026+CPIN: READY
+B026OK
+C0016
+Sending Instruction: AT
+
+B026OK
+C0017
+Sending Instruction: AT+QINISTAT
+
+B026+QINISTAT: 1
+B026OK
+B026Call Ready
+Time:140101010101
+IOStatus000000
+Battery voltage:3.7   External voltage:11
+AN1:00.00
+LACCI:0000   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+C0017
+Sending Instruction: AT+QINISTAT
+
+B026+QINISTAT: 3
+B026OK
+C0018
+Sending Instruction: AT+CMEE=2
+
+B026OK
+C0019
+Sending Instruction: AT+CREG=2
+
+B026OK
+C00110
+Sending Instruction: AT+QBAND="EGSM_DCS_MODE"
+
+B026+CREG: 0,"2531","2950"
+B026OK
+C00111
+Sending Instruction: AT+CREG?
+
+B026+CREG: 2,2
+B026OK
+B026+CREG: 1,"2531","2950"
+Time:140101010101
+IOStatus000000
+Battery voltage:3.6   External voltage:11
+AN1:00.00
+LACCI:2950   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+C00111
+Sending Instruction: AT+CREG?
+
+B026+CREG: 2,1,"2531","2950"
+B026OK
+C00112
+Sending Instruction: AT+QIPROMPT=1
+
+B026OK
+C00113
+Sending Instruction: AT+QSCLK=0
+
+B026OK
+C00114
+Sending Instruction: AT+CSCS="GSM"
+
+B026OK
+C00115
+Sending Instruction: AT+CLIP=1
+
+B026OK
+C00116
+Sending Instruction: AT+QAUDCH=2
+
+B026OK
+C00117
+Sending Instruction: AT+QMIC=2,8
+
+B026OK
+C00118
+Sending Instruction: AT+QIFGCNT=0
+
+B026OK
+C00119
+Sending Instruction: AT+CMGF=1
+
+B026OK
+C00120
+Sending Instruction: AT+CNMI=2,1
+
+B026OK
+C00121
+Sending Instruction: AT+CGREG=1
+
+B026OK
+C00122
+Sending Instruction: AT+QECHOEX=1,1,1,211,2048,32767,374,2
+
+B026OK
+C00123
+Sending Instruction: AT+QECHO=221,2048,200,374,2
+
+B026OK
+C00124
+Sending Instruction: AT+CSMP=17,167,0,0
+
+B026OK
+C00125
+Sending Instruction: AT&W
+
+B026OK
+C00126
+Sending Instruction: AT+QMGDA="DEL READ"
+
+B026OK
+C00127
+Sending Instruction: AT+QIDNSCFG="8.8.8.8","8.8.4.4"
+
+Set DNS:"8.8.8.8","8.8.4.4"
+B026OK
+C00128
+Sending Instruction: AT+QICSGP=1,"CMNET","",""
+
+Set APN:AT+QICSGP=1,"CMNET","",""
+
+B026OK
+C00129
+Sending Instruction: AT+QIDEACT
+
+B026DEACT OK
+C00130
+Sending Instruction: AT+QINDI=0
+
+B026OK
+C00131
+Sending Instruction: AT+CSQ
+
+B026+CSQ: 25,0
+B026OK
+Sending Instruction: AT+CSQ
+
+GPRS Close
+
+B026+CSQ: 25,0
+B026OK
+Sending Instruction: AT+QIDNSIP=0
+
+B026OK
+Sending Instruction: AT+QIOPEN="TCP","66.160.134.220","8808"
+
+GPRS Connect:"TCP","66.160.134.220","8808"
+B026OK
+B026CONNECT FAIL
+Sending Instruction: AT+CSQ
+
+B026+CSQ: 25,0
+B026OK
+Time:140101010101
+IOStatus000000
+Battery voltage:3.4   External voltage:11
+AN1:00.00
+LACCI:2950   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+Sending Instruction: AT+CSQ
+
+B026+CSQ: 26,0
+B026OK
+C00317
+C0022
+In Queue:$$0115AA862106029319003|00001814010101010138110000000000000025312950V002600000000.000000000000.0000N00000.0000EFACB
+Time:140101010101
+IOStatus000000
+Battery voltage:3.8   External voltage:11
+AN1:00.00
+LACCI:2950   GPS Status:V   GPS Fix:00
+Angel:000   Speed:000
+Latitude:0000.00000 N   Longitude:00000.00000 E
+
+B026+CMTI: "SM",5
+Sending Instruction: AT+CMGL="REC UNREAD"
+
+B026+CMGL: 1,"REC UNREAD","15013707900","","2014/06/12 19:38:26+32"
+Receive a sms message:15013707900
+B026*000000,006#
+SMS Instruction:*000000,006#

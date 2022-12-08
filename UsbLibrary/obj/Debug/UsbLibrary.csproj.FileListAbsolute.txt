@@ -1,0 +1,30 @@
+C:\Users\Administrator\Desktop\usb hid\UsbLibrary\bin\Debug\UsbLibrary.XML
+C:\Users\Administrator\Desktop\usb hid\UsbLibrary\bin\Debug\UsbLibrary.dll
+C:\Users\Administrator\Desktop\usb hid\UsbLibrary\bin\Debug\UsbLibrary.pdb
+C:\Users\Administrator\Desktop\usb hid\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\usb hid\UsbLibrary\obj\Debug\UsbLibrary.dll
+C:\Users\Administrator\Desktop\usb hid\UsbLibrary\obj\Debug\UsbLibrary.pdb
+E:\HID配置软件\UsbLibrary\bin\Debug\UsbLibrary.XML
+E:\HID配置软件\UsbLibrary\bin\Debug\UsbLibrary.dll
+E:\HID配置软件\UsbLibrary\bin\Debug\UsbLibrary.pdb
+E:\HID配置软件\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\HID配置软件\UsbLibrary\obj\Debug\UsbLibrary.dll
+E:\HID配置软件\UsbLibrary\obj\Debug\UsbLibrary.pdb
+E:\myTRAX配置软件\UsbLibrary\bin\Debug\UsbLibrary.XML
+E:\myTRAX配置软件\UsbLibrary\bin\Debug\UsbLibrary.dll
+E:\myTRAX配置软件\UsbLibrary\bin\Debug\UsbLibrary.pdb
+E:\myTRAX配置软件\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\myTRAX配置软件\UsbLibrary\obj\Debug\UsbLibrary.dll
+E:\myTRAX配置软件\UsbLibrary\obj\Debug\UsbLibrary.pdb
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版\UsbLibrary\bin\Debug\UsbLibrary.XML
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版\UsbLibrary\bin\Debug\UsbLibrary.dll
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版\UsbLibrary\bin\Debug\UsbLibrary.pdb
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版\UsbLibrary\obj\Debug\UsbLibrary.dll
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版\UsbLibrary\obj\Debug\UsbLibrary.pdb
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbLibrary\bin\Debug\UsbLibrary.XML
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbLibrary\bin\Debug\UsbLibrary.dll
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbLibrary\bin\Debug\UsbLibrary.pdb
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbLibrary\obj\Debug\UsbLibrary.dll
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbLibrary\obj\Debug\UsbLibrary.pdb

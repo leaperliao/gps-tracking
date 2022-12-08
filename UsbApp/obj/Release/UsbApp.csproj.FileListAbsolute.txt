@@ -1,0 +1,85 @@
+C:\Users\Administrator\Desktop\usb hid\UsbApp\bin\Release\UsbApp.exe
+C:\Users\Administrator\Desktop\usb hid\UsbApp\bin\Release\UsbApp.pdb
+C:\Users\Administrator\Desktop\usb hid\UsbApp\bin\Release\UsbLibrary.dll
+C:\Users\Administrator\Desktop\usb hid\UsbApp\bin\Release\UsbLibrary.pdb
+C:\Users\Administrator\Desktop\usb hid\UsbApp\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\usb hid\UsbApp\obj\Release\UsbApp.Properties.Resources.resources
+C:\Users\Administrator\Desktop\usb hid\UsbApp\obj\Release\UsbApp.Sniffer.resources
+C:\Users\Administrator\Desktop\usb hid\UsbApp\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\usb hid\UsbApp\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\usb hid\UsbApp\obj\Release\UsbApp.exe
+C:\Users\Administrator\Desktop\usb hid\UsbApp\obj\Release\UsbApp.pdb
+E:\HID配置软件\UsbApp\bin\Release\myLOAD.exe
+E:\HID配置软件\UsbApp\bin\Release\myLOAD.pdb
+E:\HID配置软件\UsbApp\bin\Release\UsbLibrary.dll
+E:\HID配置软件\UsbApp\bin\Release\UsbLibrary.pdb
+E:\HID配置软件\UsbApp\obj\Release\ResolveAssemblyReference.cache
+E:\HID配置软件\UsbApp\obj\Release\UsbApp.Properties.Resources.resources
+E:\HID配置软件\UsbApp\obj\Release\UsbApp.Sniffer.resources
+E:\HID配置软件\UsbApp\obj\Release\GenerateResource-ResGen.read.1.tlog
+E:\HID配置软件\UsbApp\obj\Release\GenerateResource-ResGen.read.4.tlog
+E:\HID配置软件\UsbApp\obj\Release\GenerateResource-ResGen.write.1.tlog
+E:\HID配置软件\UsbApp\obj\Release\myLOAD.exe
+E:\HID配置软件\UsbApp\obj\Release\myLOAD.pdb
+E:\myTRAX配置软件\UsbApp\obj\Release\myLOAD.exe
+E:\myTRAX配置软件\UsbApp\obj\Release\myLOAD.pdb
+E:\myTRAX配置软件\UsbApp\bin\Release\myLOAD.exe
+E:\myTRAX配置软件\UsbApp\bin\Release\myLOAD.pdb
+E:\myTRAX配置软件\UsbApp\bin\Release\UsbLibrary.dll
+E:\myTRAX配置软件\UsbApp\bin\Release\UsbLibrary.pdb
+E:\myTRAX配置软件\UsbApp\obj\Release\ResolveAssemblyReference.cache
+E:\myTRAX配置软件\UsbApp\obj\Release\UsbApp.Properties.Resources.resources
+E:\myTRAX配置软件\UsbApp\obj\Release\UsbApp.Sniffer.resources
+E:\myTRAX配置软件\UsbApp\obj\Release\GenerateResource-ResGen.read.1.tlog
+E:\myTRAX配置软件\UsbApp\obj\Release\GenerateResource-ResGen.read.4.tlog
+E:\myTRAX配置软件\UsbApp\obj\Release\GenerateResource-ResGen.write.1.tlog
+E:\myTRAX配置软件简单版\UsbApp\obj\Release\myLOAD.exe
+E:\myTRAX配置软件简单版\UsbApp\obj\Release\myLOAD.pdb
+E:\myTRAX配置软件简单版\UsbApp\bin\Release\myLOAD.exe
+E:\myTRAX配置软件简单版\UsbApp\bin\Release\myLOAD.pdb
+E:\myTRAX配置软件简单版\UsbApp\bin\Release\UsbLibrary.dll
+E:\myTRAX配置软件简单版\UsbApp\bin\Release\UsbLibrary.pdb
+E:\myTRAX配置软件简单版\UsbApp\obj\Release\ResolveAssemblyReference.cache
+E:\myTRAX配置软件简单版\UsbApp\obj\Release\UsbApp.Properties.Resources.resources
+E:\myTRAX配置软件简单版\UsbApp\obj\Release\UsbApp.Sniffer.resources
+E:\myTRAX配置软件简单版\UsbApp\obj\Release\GenerateResource-ResGen.read.1.tlog
+E:\myTRAX配置软件简单版\UsbApp\obj\Release\GenerateResource-ResGen.read.4.tlog
+E:\myTRAX配置软件简单版\UsbApp\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版\UsbApp\obj\Release\myLOAD.exe
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版\UsbApp\obj\Release\myLOAD.pdb
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版\UsbApp\bin\Release\myLOAD.exe
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版\UsbApp\bin\Release\myLOAD.pdb
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版\UsbApp\bin\Release\UsbLibrary.dll
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版\UsbApp\bin\Release\UsbLibrary.pdb
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版\UsbApp\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版\UsbApp\obj\Release\UsbApp.Properties.Resources.resources
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版\UsbApp\obj\Release\UsbApp.Sniffer.resources
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版\UsbApp\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版\UsbApp\obj\Release\GenerateResource-ResGen.read.4.tlog
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版\UsbApp\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版 - 副本\UsbApp\obj\Release\myLOAD.exe
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版 - 副本\UsbApp\obj\Release\myLOAD.pdb
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版 - 副本\UsbApp\bin\Release\myLOAD.exe
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版 - 副本\UsbApp\bin\Release\myLOAD.pdb
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版 - 副本\UsbApp\bin\Release\UsbLibrary.dll
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版 - 副本\UsbApp\bin\Release\UsbLibrary.pdb
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版 - 副本\UsbApp\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版 - 副本\UsbApp\obj\Release\UsbApp.Properties.Resources.resources
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版 - 副本\UsbApp\obj\Release\UsbApp.Sniffer.resources
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版 - 副本\UsbApp\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版 - 副本\UsbApp\obj\Release\GenerateResource-ResGen.read.4.tlog
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版 - 副本\UsbApp\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\myTRAX项目资料\myTRAX配置软件简单版\UsbApp\obj\Release\myLOAD.exe
+C:\Users\Administrator\Desktop\myTRAX项目资料\myTRAX配置软件简单版\UsbApp\obj\Release\myLOAD.pdb
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbApp\bin\Release\Configurator.exe
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbApp\bin\Release\Configurator.pdb
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbApp\bin\Release\UsbLibrary.dll
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbApp\bin\Release\UsbLibrary.pdb
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbApp\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbApp\obj\Release\UsbApp.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbApp\obj\Release\UsbApp.Sniffer.resources
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbApp\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbApp\obj\Release\GenerateResource-ResGen.read.4.tlog
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbApp\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbApp\obj\Release\Configurator.exe
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbApp\obj\Release\Configurator.pdb

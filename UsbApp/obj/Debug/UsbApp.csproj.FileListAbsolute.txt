@@ -1,0 +1,103 @@
+C:\Users\Administrator\Desktop\usb hid\UsbApp\bin\Debug\UsbApp.exe
+C:\Users\Administrator\Desktop\usb hid\UsbApp\bin\Debug\UsbApp.pdb
+C:\Users\Administrator\Desktop\usb hid\UsbApp\bin\Debug\UsbLibrary.dll
+C:\Users\Administrator\Desktop\usb hid\UsbApp\bin\Debug\UsbLibrary.pdb
+C:\Users\Administrator\Desktop\usb hid\UsbApp\bin\Debug\UsbLibrary.xml
+C:\Users\Administrator\Desktop\usb hid\UsbApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\usb hid\UsbApp\obj\Debug\UsbApp.Properties.Resources.resources
+C:\Users\Administrator\Desktop\usb hid\UsbApp\obj\Debug\UsbApp.Sniffer.resources
+C:\Users\Administrator\Desktop\usb hid\UsbApp\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\usb hid\UsbApp\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\usb hid\UsbApp\obj\Debug\UsbApp.exe
+C:\Users\Administrator\Desktop\usb hid\UsbApp\obj\Debug\UsbApp.pdb
+E:\HID配置软件\UsbApp\bin\Debug\myLOAD.exe
+E:\HID配置软件\UsbApp\bin\Debug\myLOAD.pdb
+E:\HID配置软件\UsbApp\bin\Debug\UsbLibrary.dll
+E:\HID配置软件\UsbApp\bin\Debug\UsbLibrary.pdb
+E:\HID配置软件\UsbApp\bin\Debug\UsbLibrary.xml
+E:\HID配置软件\UsbApp\obj\Debug\ResolveAssemblyReference.cache
+E:\HID配置软件\UsbApp\obj\Debug\UsbApp.Properties.Resources.resources
+E:\HID配置软件\UsbApp\obj\Debug\UsbApp.Sniffer.resources
+E:\HID配置软件\UsbApp\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\HID配置软件\UsbApp\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\HID配置软件\UsbApp\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\HID配置软件\UsbApp\obj\Debug\myLOAD.exe
+E:\HID配置软件\UsbApp\obj\Debug\myLOAD.pdb
+E:\myTRAX配置软件\UsbApp\obj\Debug\myLOAD.exe
+E:\myTRAX配置软件\UsbApp\obj\Debug\myLOAD.pdb
+E:\myTRAX配置软件\UsbApp\bin\Debug\myLOAD.exe
+E:\myTRAX配置软件\UsbApp\bin\Debug\myLOAD.pdb
+E:\myTRAX配置软件\UsbApp\bin\Debug\UsbLibrary.dll
+E:\myTRAX配置软件\UsbApp\bin\Debug\UsbLibrary.pdb
+E:\myTRAX配置软件\UsbApp\bin\Debug\UsbLibrary.xml
+E:\myTRAX配置软件\UsbApp\obj\Debug\ResolveAssemblyReference.cache
+E:\myTRAX配置软件\UsbApp\obj\Debug\UsbApp.Properties.Resources.resources
+E:\myTRAX配置软件\UsbApp\obj\Debug\UsbApp.Sniffer.resources
+E:\myTRAX配置软件\UsbApp\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\myTRAX配置软件\UsbApp\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\myTRAX配置软件\UsbApp\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\myTRAX配置软件简单版\UsbApp\obj\Debug\myLOAD.exe
+E:\myTRAX配置软件简单版\UsbApp\obj\Debug\myLOAD.pdb
+E:\myTRAX配置软件简单版\UsbApp\bin\Debug\myLOAD.exe
+E:\myTRAX配置软件简单版\UsbApp\bin\Debug\myLOAD.pdb
+E:\myTRAX配置软件简单版\UsbApp\bin\Debug\UsbLibrary.dll
+E:\myTRAX配置软件简单版\UsbApp\bin\Debug\UsbLibrary.pdb
+E:\myTRAX配置软件简单版\UsbApp\bin\Debug\UsbLibrary.xml
+E:\myTRAX配置软件简单版\UsbApp\obj\Debug\ResolveAssemblyReference.cache
+E:\myTRAX配置软件简单版\UsbApp\obj\Debug\UsbApp.Properties.Resources.resources
+E:\myTRAX配置软件简单版\UsbApp\obj\Debug\UsbApp.Sniffer.resources
+E:\myTRAX配置软件简单版\UsbApp\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\myTRAX配置软件简单版\UsbApp\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\myTRAX配置软件简单版\UsbApp\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版\UsbApp\bin\Debug\myLOAD.exe
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版\UsbApp\bin\Debug\myLOAD.pdb
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版\UsbApp\bin\Debug\UsbLibrary.dll
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版\UsbApp\bin\Debug\UsbLibrary.pdb
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版\UsbApp\bin\Debug\UsbLibrary.xml
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版\UsbApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版\UsbApp\obj\Debug\UsbApp.Properties.Resources.resources
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版\UsbApp\obj\Debug\UsbApp.Sniffer.resources
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版\UsbApp\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版\UsbApp\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版\UsbApp\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版\UsbApp\obj\Debug\myLOAD.exe
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版\UsbApp\obj\Debug\myLOAD.pdb
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版 - 副本\UsbApp\obj\Debug\myLOAD.exe
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版 - 副本\UsbApp\obj\Debug\myLOAD.pdb
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版 - 副本\UsbApp\bin\Debug\myLOAD.exe
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版 - 副本\UsbApp\bin\Debug\myLOAD.pdb
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版 - 副本\UsbApp\bin\Debug\UsbLibrary.dll
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版 - 副本\UsbApp\bin\Debug\UsbLibrary.pdb
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版 - 副本\UsbApp\bin\Debug\UsbLibrary.xml
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版 - 副本\UsbApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版 - 副本\UsbApp\obj\Debug\UsbApp.Properties.Resources.resources
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版 - 副本\UsbApp\obj\Debug\UsbApp.Sniffer.resources
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版 - 副本\UsbApp\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版 - 副本\UsbApp\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\Administrator\Desktop\公司资料\myTRAX配置软件简单版 - 副本\UsbApp\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\myTRAX项目资料\myTRAX配置软件简单版\UsbApp\obj\Debug\myLOAD.exe
+C:\Users\Administrator\Desktop\myTRAX项目资料\myTRAX配置软件简单版\UsbApp\obj\Debug\myLOAD.pdb
+C:\Users\Administrator\Desktop\myTRAX项目资料\myTRAX配置软件简单版\UsbApp\bin\Debug\myLOAD.exe
+C:\Users\Administrator\Desktop\myTRAX项目资料\myTRAX配置软件简单版\UsbApp\bin\Debug\myLOAD.pdb
+C:\Users\Administrator\Desktop\myTRAX项目资料\myTRAX配置软件简单版\UsbApp\bin\Debug\UsbLibrary.dll
+C:\Users\Administrator\Desktop\myTRAX项目资料\myTRAX配置软件简单版\UsbApp\bin\Debug\UsbLibrary.pdb
+C:\Users\Administrator\Desktop\myTRAX项目资料\myTRAX配置软件简单版\UsbApp\bin\Debug\UsbLibrary.xml
+C:\Users\Administrator\Desktop\myTRAX项目资料\myTRAX配置软件简单版\UsbApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\myTRAX项目资料\myTRAX配置软件简单版\UsbApp\obj\Debug\UsbApp.Properties.Resources.resources
+C:\Users\Administrator\Desktop\myTRAX项目资料\myTRAX配置软件简单版\UsbApp\obj\Debug\UsbApp.Sniffer.resources
+C:\Users\Administrator\Desktop\myTRAX项目资料\myTRAX配置软件简单版\UsbApp\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\myTRAX项目资料\myTRAX配置软件简单版\UsbApp\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\Administrator\Desktop\myTRAX项目资料\myTRAX配置软件简单版\UsbApp\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbApp\bin\Debug\myLOAD.exe
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbApp\bin\Debug\myLOAD.pdb
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbApp\bin\Debug\UsbLibrary.dll
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbApp\bin\Debug\UsbLibrary.pdb
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbApp\bin\Debug\UsbLibrary.xml
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbApp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbApp\obj\Debug\UsbApp.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbApp\obj\Debug\UsbApp.Sniffer.resources
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbApp\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbApp\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbApp\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbApp\obj\Debug\myLOAD.exe
+C:\Users\Administrator\Desktop\Totemtek配置软件\UsbApp\obj\Debug\myLOAD.pdb
